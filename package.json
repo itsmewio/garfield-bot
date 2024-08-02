@@ -1,0 +1,15 @@
+{
+  "name": "garfield-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot named Garfield with various fun features.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

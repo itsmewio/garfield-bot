@@ -1,0 +1,14 @@
+{
+  "token": "YOUR_DISCORD_TOKEN_FOR_YOUR_BOT_YOU_CAN_FIND_ON_DISCORD_DEV_PORTAL",
+  "clientId": "YOUR_DISCORD_BOT_CLIENT_ID_YOU_CAN_FIND_ON_DISCORD_DEV_PORTAL",
+  "guildId": "RIGHT_CLICK_ON_YOUR_SERVER_ICON_THEN_COPY_YOUR_SERVERID_AND_PUT_IT_HERE",
+  "autoReactChannelId": "RIGHT_CLICK_ON_YOUR_SERVER_CHAT_CHANNEL_THEN_COPY_THE_CHANNELID_AND_PUT_IT_HERE",
+  "randomMessagesChannelId": "RIGHT_CLICK_ON_YOUR_SERVER_CHAT_CHANNEL_THEN_COPY_THE_CHANNELID_AND_PUT_IT_HERE",
+  "supercrushChannelId": "RIGHT_CLICK_ON_YOUR_SERVER_ANNOUNCEMENT_CHANNEL_THEN_COPY_THE_CHANNELID_AND_PUT_IT_HERE",
+  "supercrushWebhookUrl": "https://discord.com/api/webhooks/YOUR_WEBHOOK_SHOULD_BE_HERE",
+  "supercrushTime": "06:00",
+  "autoReactEmojis": ["🍾", "😂", "😽", "👍", "❤️", "🔥", "😎", "🤔", "👀", "🌈", "🐈", "😮", "🤯", "😩", "🐒", "❤️‍🔥", "🗿", "👺", "💩", "💀"],
+  "autoReactProbability": 0.05,
+  "randomMessageProbability": 0.03,
+  "ignoreRoleId": "A_ROLE_ID_THAT_THE_BOT_SHOULD_IGNORE"
+}
